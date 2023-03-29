@@ -1,6 +1,7 @@
 {
   "name": "handsonlab_fs-crypto",
   "version": "1.0.0",
+  "type": "module",
   "description": "actividad practica para utilizar modulos nativos de nodejs (file system &amp; crypto)",
   "main": "index.js",
   "scripts": {
